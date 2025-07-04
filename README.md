@@ -1,5 +1,4 @@
 # I'm a NOOB DEVELOPER
-
 ![umagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganwooma&show_icons=true&theme=radical)
 
 # I use
