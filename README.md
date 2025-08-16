@@ -4,7 +4,7 @@
 # I use
 ![Language](https://img.shields.io/badge/Language-CSharp-purple) for Unity
 
-![Language](https://img.shields.io/badge/Language-JAVA-orange) for Minecraft Plugin
+![Language](https://img.shields.io/badge/Language-Java-orange) for Minecraft Plugin
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 
