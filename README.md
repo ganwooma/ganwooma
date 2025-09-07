@@ -8,7 +8,6 @@
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganwooma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Language](https://img.shields.io/badge/Language-Cpp-blue) for Baekjoon
 
-# What I want to do later
-Learn ![Language](https://img.shields.io/badge/Language-Cpp-blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganwooma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
