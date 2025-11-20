@@ -6,6 +6,8 @@
 
 ![Language](https://img.shields.io/badge/Language-Java-orange) for Minecraft Plugin
 
+![Language](https://img.shields.io/badge/Language-Kotlin-pink) for Minecraft Plugin
+
 ![Language](https://img.shields.io/badge/Language-Python-yellow) for AI
 
 ![Language](https://img.shields.io/badge/Language-Cpp-blue) for Baekjoon
