@@ -1,5 +1,5 @@
 # I'm a NOOB DEVELOPER
-![Ganwooma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganwooma&show_icons=true&theme=radical)
+[![Ganwooma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganwooma)](https://github.com/anuraghazra/github-readme-stats)
 
 # I use
 ![Language](https://img.shields.io/badge/Language-CSharp-purple) for Unity
