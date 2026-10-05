@@ -3,7 +3,7 @@
   $\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$<br>Kirima
 </div>
 
-====
+----
 
 > [![Ganwooma's GitHub stats](https://github-stats-extended.vercel.app/api?username=ganwooma)](https://github.com/stats-organization/github-stats-extended)
 > 
