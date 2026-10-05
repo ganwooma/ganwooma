@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b><sub><ruby>桐<rt>きり</rt></ruby><ruby>間<rt>ま</rt></ruby></sub></b></h1><br><h3>Kirima</h3>
+  $\Huge\text{<b><sub><ruby>桐<rt>きり</rt></ruby><ruby>間<rt>ま</rt></ruby></sub></b>}$</h1><br><h3>Kirima</h3>
 </div>
 <br>
 
