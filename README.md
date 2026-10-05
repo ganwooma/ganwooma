@@ -1,8 +1,6 @@
 <div align="center">
 
-  $\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$
-
-  Kirima
+  $\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$<br>Kirima
 </div>
 <br>
 
