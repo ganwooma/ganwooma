@@ -1,5 +1,8 @@
 <div align="center">
-  $\Huge\text{<b><sub><ruby>桐<rt>きり</rt></ruby><ruby>間<rt>ま</rt></ruby></sub></b>}$</h1><br><h3>Kirima</h3>
+
+$\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$
+
+<h3>Kirima</h3>
 </div>
 <br>
 
