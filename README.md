@@ -17,5 +17,5 @@
   
   ![Language](https://img.shields.io/badge/Language-Cpp-blue) for Baekjoon
 
-  <img src="https://vercel.com" alt="Top Langs" />
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ganwooma&langs_count=4)
 </div>
