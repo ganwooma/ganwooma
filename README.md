@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><sub><ruby>桐<rt>き|り</rt></ruby><ruby>間<rt>ま</rt></ruby></sub></h1>
+  <h1><sub><ruby>桐<rt>きり</rt></ruby><ruby>間<rt>ま</rt></ruby></sub></h1>
 </div>
 
 # I'm a NOOB DEVELOPER
