@@ -1,8 +1,8 @@
 <div align="center">
 
   <h1><b><sub><ruby>桐<rt>きり</rt></ruby><ruby>間<rt>ま</rt></ruby></sub></b></h1>
-  =====================================================
 </div>
+=====================================================
 <br>
 
 [![Ganwooma's GitHub stats](https://github-stats-extended.vercel.app/api?username=ganwooma)](https://github.com/stats-organization/github-stats-extended)
