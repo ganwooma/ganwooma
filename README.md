@@ -1,4 +1,4 @@
-<h1><ruby>桐<rt>きり</rt></ruby><ruby>間<rt>ま</rt></ruby></h1>
+<p style="font-size: 50px; font-weight: bold;"><ruby>桐<rt>きり</rt></ruby><ruby>間<rt>ま</rt></ruby></p>
 
 # I'm a NOOB DEVELOPER
 [![Ganwooma's GitHub stats](https://github-stats-extended.vercel.app/api?username=ganwooma)](https://github.com/stats-organization/github-stats-extended)
