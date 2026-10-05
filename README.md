@@ -2,7 +2,7 @@
 
 $\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$
 
-<h3>Kirima</h3>
+<h5>Kirima</h5>
 </div>
 <br>
 
