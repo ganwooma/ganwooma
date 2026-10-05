@@ -1,4 +1,4 @@
-# <kbd>桐間</kbd>
+# 桐間
 
 # I'm a NOOB DEVELOPER
 [![Ganwooma's GitHub stats](https://github-stats-extended.vercel.app/api?username=ganwooma)](https://github.com/stats-organization/github-stats-extended)
