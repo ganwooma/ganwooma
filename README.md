@@ -5,8 +5,6 @@
   
   $\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$<br>Kirima
 
-
-
 ----
 
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ganwooma&theme=react&hide_border=true)](https://git.io/streak-stats)
