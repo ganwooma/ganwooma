@@ -5,9 +5,20 @@
   
   $\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$<br>Kirima
 
-</div>
+
 
 ----
+
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ganwooma&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+
+</div>
+---
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=korbirayen&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
 
 > [![Ganwooma's GitHub stats](https://github-stats-extended.vercel.app/api?username=ganwooma)](https://github.com/stats-organization/github-stats-extended)
 > 
