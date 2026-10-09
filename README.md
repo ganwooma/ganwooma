@@ -11,7 +11,7 @@
 
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ganwooma&theme=react&hide_border=true)](https://git.io/streak-stats)
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=korbirayen&color=blue&style=flat-square&label=Profile+Views)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=ganwooma&color=blue&style=flat-square&label=Profile+Views)
 </div>
 
 ----
