@@ -1,11 +1,9 @@
 <div align="center">
 
   $\Huge\mathbf{\overset{きり}{桐}\overset{ま}{間}}$<br>Kirima
+
+  <img src="./adb.png" width="200" height="200">
 </div>
-
-----
-
-![icon](adb.png)
 
 ----
 
