@@ -13,5 +13,3 @@
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=ganwooma&color=blue&style=flat-square&label=Profile+Views)
 </div>
-
-----
